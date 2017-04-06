@@ -1,2 +1,2 @@
 Nascido em Goiânia
-Frase(pode ser uma frase qualquer):
+Frase(pode ser uma frase qualquer - em seguida apague esta linha):
